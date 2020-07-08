@@ -1,0 +1,5 @@
+@import './Colors.css';
+
+.TokenHeaderWrapper {
+    border: 1px solid var(--blue);
+}

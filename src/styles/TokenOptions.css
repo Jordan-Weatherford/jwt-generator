@@ -1,0 +1,5 @@
+@import './Colors.css';
+
+.TokenOptionsWrapper {
+    border: 1px solid var(--magenta);
+}
